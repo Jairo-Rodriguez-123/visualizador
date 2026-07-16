@@ -1,2 +1,3 @@
-2026/07/14-12:32:42.266 1f40 Creating DB D:\Unreal\visualizador\viusalizador\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/07/14-12:32:42.765 1f40 Reusing MANIFEST D:\Unreal\visualizador\viusalizador\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/15-10:46:26.132 79f0 Reusing MANIFEST D:\Unreal\visualizador\viusalizador\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/15-10:46:26.220 79f0 Recovering log #3
+2026/07/15-10:46:26.226 79f0 Reusing old log D:\Unreal\visualizador\viusalizador\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
